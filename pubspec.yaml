@@ -1,0 +1,37 @@
+name: nepali_date_converter_plus
+description: >
+  A Flutter package for converting, formatting, and displaying Nepali (Bikram Sambat, BS) dates, 
+  including AD to BS conversion, Nepali numerals, month and day names, and localization utilities.
+version: 0.0.1
+homepage: https://github.com/SumanSharmaTech/nepali_date_converter_plus
+repository: https://github.com/SumanSharmaTech/nepali_date_converter_plus
+issue_tracker: https://github.com/SumanSharmaTech/nepali_date_converter_plus/issues
+documentation: https://github.com/SumanSharmaTech/nepali_date_converter_plus#readme
+# author: Suman Sharma
+
+keywords:
+  - nepali date
+  - bikram sambat
+  - date converter
+  - nepali calendar
+  - localization
+  - flutter
+  - dart
+  - bs to ad
+  - ad to bs
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  # assets or fonts
