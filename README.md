@@ -7,7 +7,7 @@ A comprehensive Dart package for working with Nepali dates (Bikram Sambat). This
 
 ## Features
 
-- 📅 Convert dates between Gregorian (AD) and Nepali (BS) calendars
+- 📅 Convert Gregorian (AD) dates to Nepali (BS) dates (BS to AD conversion coming in a future release)
 - 🔄 Easy-to-use object-oriented API with `NepaliDate` class
 - 📝 Multiple date formatting options with both predefined and custom formats
 - 🔢 Support for Nepali numerals (१, २, ३, etc.)
